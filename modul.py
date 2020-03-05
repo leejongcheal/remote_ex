@@ -5,3 +5,5 @@ def sub(a, b):
 def mod(a, b):
     return a // b
 a = 1
+
+c = 3
