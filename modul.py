@@ -4,3 +4,4 @@ def sub(a, b):
     return a - b
 def mod(a, b):
     return a // b
+a = 1
