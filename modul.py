@@ -7,4 +7,4 @@ def mod(a, b):
 def mul(a, b):
     return a*b
 a = 1
-
+b = 1
