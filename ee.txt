@@ -1,4 +1,4 @@
 ﻿git pull 을  통해 깃허브내용을 내 local로 동기화 시키자
 ddd asdaasdsd
 한번해보자구  ds  ds2 ds3 1 2 a 1 1
-b 1 2 3 4
+b 1 2 3 4 a 1 1 1
